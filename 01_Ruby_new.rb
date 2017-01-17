@@ -7,6 +7,7 @@ puts -1942.abs
 puts "how do you do?"
 puts "I'm fine :-)"
 puts "Are you REALLY sure?"
+puts "Yes sir, I am!"
 
 ##
 
