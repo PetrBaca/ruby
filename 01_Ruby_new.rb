@@ -5,6 +5,7 @@ puts "gin joint".length
 puts "Rick".index("k")
 puts -1942.abs
 puts "how do you do?"
+puts "I'm fine :-)"
 
 ##
 
